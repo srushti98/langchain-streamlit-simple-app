@@ -1,4 +1,4 @@
-### Creating a Text Translator App using Langchain: OpenAI and Streamlit
+## Creating a Text Translator App using Langchain: OpenAI and Streamlit
 
 This repo has 
 

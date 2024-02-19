@@ -9,4 +9,4 @@ Steps:
 2) Install the requirements from `requirements.txt`.
 3) Run `streamlit run app.py` for running the translator app.
 
-Reference and Credits: [!@krishnaik06](https://github.com/krishnaik06/Complete-Langchain-Tutorials/tree/main)
+Reference and Credits: [@krishnaik06](https://github.com/krishnaik06/Complete-Langchain-Tutorials/tree/main)
